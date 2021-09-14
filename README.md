@@ -1,1 +1,2 @@
-# Prediction-of-Severeness-of-Covid-19-
+# Prediction-of-Severeness-of-Covid-19
+Our prediction of severeness of covid 19 works on data test and training using logistic regression. It reads the data from the dataset we provide from the records of earlier patients. Then train these data according to LDH, D-dimer and Creatine kinase values.  It takes the input from the user asking the values of LDH, D-dimer and Creatine kinase. And then it compares the values with the trained data and gives out the output whether the patient is out of danger or he/she is in critical condition. The aim of our project is to predict the severeness of disease with maximum accuracy.
